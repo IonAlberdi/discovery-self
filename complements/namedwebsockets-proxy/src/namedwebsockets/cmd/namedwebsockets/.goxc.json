@@ -7,8 +7,7 @@
 		"deb": {
 			"metadata": {
 				"description": "Dynamic binding, peer management and local network discovery for WebSockets modiffied to generate notifications",
-				"maintainer": "Rich Tibbett (https://github.com/richtr)",
-				"modifier": "Ion Alberdi (https://github.com/)"
+				"maintainer": "Rich Tibbett (https://github.com/richtr)"
 			},
 			"metadata-deb": {
 				"Depends": "golang",
